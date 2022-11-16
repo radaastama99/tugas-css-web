@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.kotak1 p {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    background: gray;
+    border: 1px solid black;
+}
+
+.kotak2 p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+    background: gray;
+    border: 1px solid violet;
+}

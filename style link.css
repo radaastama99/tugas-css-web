@@ -1,0 +1,12 @@
+.navigasi {
+    color: blue;
+}
+
+.navigasi:hover {
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+.navigasi:active {
+    color: gray;
+}
